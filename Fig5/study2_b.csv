@@ -1,0 +1,30 @@
+﻿0.5,6.458978834,Never
+1,2.71936771,Never
+2,0.658122352,Never
+3,0.262941407,Never
+4,0.285237608,Never
+10,3.125696756,Never
+0.5,84.59178731,Early transient
+1,72.10207047,Early transient
+2,40.87047445,Early transient
+3,19.43190817,Early transient
+4,9.661174625,Early transient
+10,10.41809221,Early transient
+0.5,0.208354156,Mid-transient
+1,25.01364681,Mid-transient
+2,100.0426703,Mid-transient
+3,20.26532479,Mid-transient
+4,0.076883452,Mid-transient
+10,0.208738573,Mid-transient
+0.5,8.959228705,Late transient
+1,11.47062668,Late transient
+2,17.32645483,Late transient
+3,22.76557467,Late transient
+4,26.53786126,Late transient
+10,12.29327962,Late transient
+0.5,68.75687146,Persistent
+1,74.81029008,Persistent
+2,82.74927537,Persistent
+3,86.31320781,Persistent
+4,87.58562895,Persistent
+10,46.25500703,Persistent

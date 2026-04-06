@@ -1,0 +1,94 @@
+﻿1,37.5,Haider_ETE
+2.5,51.78571429,Haider_ETE
+4.5,36.30952381,Haider_ETE
+9,0.595238095,Haider_ETE
+17,0,Haider_ETE
+1,0.198412698,Haider_LOE
+2.5,0.198412698,Haider_LOE
+4.5,20.83333333,Haider_LOE
+9,76.98412698,Haider_LOE
+17,34.32539683,Haider_LOE
+0.5,84.59178731,Hu_Early transient
+1,72.10207047,Hu_Early transient
+2,40.87047445,Hu_Early transient
+3,19.43190817,Hu_Early transient
+4,9.661174625,Hu_Early transient
+10,10.41809221,Hu_Early transient
+0.5,0.208354156,Hu_Mid-transient
+1,25.01364681,Hu_Mid-transient
+2,100.0426703,Hu_Mid-transient
+3,20.26532479,Hu_Mid-transient
+4,0.076883452,Hu_Mid-transient
+10,0.208738573,Hu_Mid-transient
+0.5,8.959228705,Hu_Late transient
+1,11.47062668,Hu_Late transient
+2,17.32645483,Hu_Late transient
+3,22.76557467,Hu_Late transient
+4,26.53786126,Hu_Late transient
+10,12.29327962,Hu_Late transient
+0,0,Roduit_Early transient
+0.5,53.38581288,Roduit_Early transient
+1.25,78.35880135,Roduit_Early transient
+1.75,48.44187559,Roduit_Early transient
+2.5,36.32141518,Roduit_Early transient
+3.5,21.60702079,Roduit_Early transient
+4.5,1.253004344,Roduit_Early transient
+5.5,11.91814954,Roduit_Early transient
+0,0,Roduit_Early transient
+0,0,Roduit_Late
+0.5,6.314634738,Roduit_Late
+1.25,4.172179224,Roduit_Late
+1.75,6.576481224,Roduit_Late
+2.5,32.85098454,Roduit_Late
+3.5,71.49814778,Roduit_Late
+4.5,100.3847765,Roduit_Late
+5.5,67.66636899,Roduit_Late
+0.25,47.2058111,Paternoster_Early-onset-late-resolving
+1,100.0229109,Paternoster_Early-onset-late-resolving
+1,74.44572562,Paternoster_Early-onset-late-resolving
+3,78.20235945,Paternoster_Early-onset-late-resolving
+4,77.15859966,Paternoster_Early-onset-late-resolving
+5,53.18066922,Paternoster_Early-onset-late-resolving
+6,49.47060834,Paternoster_Early-onset-late-resolving
+7,28.69306551,Paternoster_Early-onset-late-resolving
+8,25.78188087,Paternoster_Early-onset-late-resolving
+11,27.98395487,Paternoster_Early-onset-late-resolving
+0.25,24.27276722,Paternoster_Early-onset-early-resolving
+1,39.22268253,Paternoster_Early-onset-early-resolving
+1,35.2452028,Paternoster_Early-onset-early-resolving
+3,22.73473328,Paternoster_Early-onset-early-resolving
+4,12.09131302,Paternoster_Early-onset-early-resolving
+5,4.914196861,Paternoster_Early-onset-early-resolving
+6,4.13710474,Paternoster_Early-onset-early-resolving
+7,5.492978377,Paternoster_Early-onset-early-resolving
+8,10.04848845,Paternoster_Early-onset-early-resolving
+11,12.78427337,Paternoster_Early-onset-early-resolving
+0.25,2.139350758,Paternoster_Mid-onset-resolving
+1,6.95589467,Paternoster_Mid-onset-resolving
+1,36.8455844,Paternoster_Mid-onset-resolving
+3,58.468952,Paternoster_Mid-onset-resolving
+4,80.35823609,Paternoster_Mid-onset-resolving
+5,67.5810989,Paternoster_Mid-onset-resolving
+6,48.93689742,Paternoster_Mid-onset-resolving
+7,29.22677644,Paternoster_Mid-onset-resolving
+8,24.44854253,Paternoster_Mid-onset-resolving
+11,22.6506015,Paternoster_Mid-onset-resolving
+0.25,3.471937923,Paternoster_Late-onset-resolving
+1,14.15592171,Paternoster_Late-onset-resolving
+1,12.04586684,Paternoster_Late-onset-resolving
+3,11.80173447,Paternoster_Late-onset-resolving
+4,18.75762914,Paternoster_Late-onset-resolving
+5,26.78094566,Paternoster_Late-onset-resolving
+6,40.67057529,Paternoster_Late-onset-resolving
+7,61.22652104,Paternoster_Late-onset-resolving
+8,63.91535743,Paternoster_Late-onset-resolving
+11,46.11735631,Paternoster_Late-onset-resolving
+0.5,40.3726708,Mulick_Moderate-Declining
+1.5,64.5962733,Mulick_Moderate-Declining
+3.5,72.6708075,Mulick_Moderate-Declining
+4.8,48.447205,Mulick_Moderate-Declining
+6.8,18.6335404,Mulick_Moderate-Declining
+8.6,11.1801242,Mulick_Moderate-Declining
+10.8,9.3167702,Mulick_Moderate-Declining
+11.8,13.0434783,Mulick_Moderate-Declining
+14,6.8322981,Mulick_Moderate-Declining
